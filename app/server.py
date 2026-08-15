@@ -19,4 +19,3 @@ async def ask(query: Query):
 @app.get("/")
 async def root():
     return {"message": "Offline RAG server running!"}
-#comment
