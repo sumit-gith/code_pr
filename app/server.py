@@ -19,3 +19,5 @@ async def ask(query: Query):
 @app.get("/")
 async def root():
     return {"message": "Offline RAG server running!"}
+
+#test for framewrok implementation in fature/test branch 
