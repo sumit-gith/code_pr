@@ -1,4 +1,4 @@
-from retreiver import retrieve_relevant_docs
+from .retreiver import retrieve_relevant_docs
 from sentence_transformers import SentenceTransformer
 import nltk
 

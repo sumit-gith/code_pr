@@ -1,0 +1,14 @@
+chromadb
+faiss-cpu
+fastapi
+httpx
+nltk
+numpy
+openai
+PyPDF2
+pydantic
+pytest
+sentence-transformers
+torch
+python-dotenv
+uvicorn[standard]
